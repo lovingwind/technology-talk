@@ -29,7 +29,7 @@ Runtime.getRuntime().addShutdownHook(new Thread() {
  
 ####2. 字符串操作
 
-* StringBuffer 线程安全
+* StringBuffer 线程安全 [String，StringBuilder，StringBuffer 实现原理解析](https://www.jianshu.com/p/64519f1b1137)
 
 * StringBuilder 非线程安全，适用于单线程，速度快
 
