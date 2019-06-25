@@ -112,6 +112,7 @@
 
 ### 五、其它
 * 	[随机数生成 --- NativePRNGNonBlocking ](http://hongjiang.info/java8-nativeprng-blocking/)
+*       [安全随机数](https://www.cnblogs.com/eaglediao/p/9291339.html)
 * 	[随机token 生成代码](java-random.md)
 * 	[HashMap扩容、散列碰撞](https://yq.aliyun.com/articles/225660?spm=5176.100238.spm-cont-list.1.LYRwKV)
 * 	[一台Java服务器跑多少个线程](https://mp.weixin.qq.com/s/lQkPltX3yS3bGb9EbxHGAg)
