@@ -16,7 +16,7 @@
 #### 简介
 
 一个应用非常广泛的java开源框架。主要分为两大块：IOC和AOP。
-
+* [动态代理](https://blog.csdn.net/flyfeifei66/article/details/81481222)
 
 `无论是技术类书籍或者网上资料、学习手册，非常多，此处就不详细列举`
 
