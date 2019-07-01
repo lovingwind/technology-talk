@@ -25,6 +25,7 @@
 * 事务
 	* [深入理解 Spring 事务原理](http://www.codeceo.com/article/spring-transactions.html)
 	* [Spring事务传播性与隔离性](https://mp.weixin.qq.com/s/u4NLJ3I2vkeZHWBpgHsdEA)
+	* [事务隔离级别与锁](http://mousycoder.com/2016/02/19/explain-transaction-in-simple-language-3/)
 
 * annotation 重试配置
 	* [Spring重试支持Spring Retry](http://blog.csdn.net/jiesa/article/details/76549381)
